@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mvvm</string>
+    <string name="title_data">Data</string>
+    <string name="title_insert">Insert</string>
+    <string name="title_api">Api</string>
+    <string name="id">Id:</string>
+    <string name="userid">UserId:</string>
+    <string name="ok">Ok</string>
+</resources>
